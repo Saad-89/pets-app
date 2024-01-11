@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618937899821",
+    "project_id": "pets-app-f06fd",
+    "storage_bucket": "pets-app-f06fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618937899821:android:3218bcd806564a27c6d1a4",
+        "android_client_info": {
+          "package_name": "com.example.appointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaW1VuMYIcmjHdnjPMvsLRFqfvgnvdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618937899821:android:995f101bef588378c6d1a4",
+        "android_client_info": {
+          "package_name": "com.example.doc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaW1VuMYIcmjHdnjPMvsLRFqfvgnvdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
